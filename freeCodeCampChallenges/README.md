@@ -1,6 +1,6 @@
 # Free Code Camp Challenges
 
-## A series of progressively challenging javascript algorithms found on [free code camp](https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges)
+## A series of progressively challenging javascript algorithms found [here](https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges)
 
 ### Algorithms
 
